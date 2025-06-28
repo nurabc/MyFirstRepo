@@ -1,0 +1,7 @@
+# My Personal and Academic Goals for Next Year
+
+- Complete the ALX Software Engineering Program
+- Launch at least one useful personal project
+- Improve my React and backend skills
+- Start freelancing or internship
+- Contribute to open source
