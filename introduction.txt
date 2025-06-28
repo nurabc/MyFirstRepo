@@ -1,5 +1,7 @@
-Brief Introduction About Myself
 
-My name is Nuredin Maru. I am a passionate software developer with a solid foundation in computer science. I specialize in web development using HTML, CSS, PHP, and React.
+# Brief Introduction About Myself
 
-I love solving real-world problems with technology and continuously learning new tools. I’m currently enhancing my skills through ALX Africa and contributing to various Islamic and eCommerce web projects.
+My name is Nuredin Maru Muhamed. I am a passionate software developer with strong knowledge in web development, React, and backend systems. I have experience in building web applications and love working on real-world projects that solve meaningful problems.
+
+Currently, I'm attending a pathway program at ALX Africa to further enhance my skills and contribute to impactful teams and startups.
+.....x
