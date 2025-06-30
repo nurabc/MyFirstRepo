@@ -1,0 +1,1 @@
+What I’ve learned so far in this course is how to work with Git, GitHub, commit files, branches, and pull requests. I now understand how to push and pull code and how collaboration works in software projects.
